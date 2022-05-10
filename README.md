@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoErHa, and used to program quite a while ago, but want to pick it up again
-- 👀 I’m interested in learning more about python, microservices, machine learning 
+- 👀 I’m interested in learning more about python, microservices and machine learning 
 - 🌱 I’m currently learning python (any tips are welcome)
 - 💞️ I’m looking to collaborate on nothing as yet
 - 📫 You can reach me through notification here on github
